@@ -1,8 +1,8 @@
 <application>
   <component name="FindSettings">
-    <option name="customScope" value="Project 'Snooki'" />
-    <option name="defaultScopeName" value="Project 'Snooki'" />
-    <option name="SEARCH_SCOPE" value="Project 'Snooki'" />
+    <option name="customScope" value="Barc" />
+    <option name="defaultScopeName" value="Barc" />
+    <option name="SEARCH_SCOPE" value="Barc" />
     <mask>*.properties</mask>
     <mask>*.html</mask>
     <mask>*.as</mask>
