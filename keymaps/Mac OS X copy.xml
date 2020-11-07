@@ -10,9 +10,7 @@
   <action id="Back">
     <keyboard-shortcut first-keystroke="meta left" />
   </action>
-  <action id="CloseAllEditorsButActive">
-    <keyboard-shortcut first-keystroke="ctrl a_with_ring_above" />
-  </action>
+  <action id="CloseAllEditorsButActive" />
   <action id="CodeCompletion" />
   <action id="CollapseAll">
     <keyboard-shortcut first-keystroke="meta subtract" />
@@ -155,7 +153,6 @@
   </action>
   <action id="GotoPrevElementUnderCaretUsage">
     <keyboard-shortcut first-keystroke="ctrl alt up" />
-    <keyboard-shortcut first-keystroke="ctrl a_with_diaeresis" />
   </action>
   <action id="GuiDesigner.CreateListener" />
   <action id="GuiDesigner.IncreaseIndent" />
@@ -192,9 +189,7 @@
     <keyboard-shortcut first-keystroke="shift meta semicolon" />
   </action>
   <action id="Replace" />
-  <action id="SelectNextOccurrence">
-    <keyboard-shortcut first-keystroke="ctrl o_with_diaeresis" />
-  </action>
+  <action id="SelectNextOccurrence" />
   <action id="SwitchApply">
     <keyboard-shortcut first-keystroke="ctrl alt enter" />
   </action>
