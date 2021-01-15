@@ -4,9 +4,7 @@
     <keyboard-shortcut first-keystroke="shift ctrl slash" />
   </action>
   <action id="ActivateMessagesToolWindow" />
-  <action id="ActivateRunToolWindow">
-    <keyboard-shortcut first-keystroke="meta r" />
-  </action>
+  <action id="ActivateRunToolWindow" />
   <action id="Back">
     <keyboard-shortcut first-keystroke="meta left" />
   </action>
@@ -45,6 +43,10 @@
     <keyboard-shortcut first-keystroke="meta equals" />
   </action>
   <action id="DatabaseView.CopyTable" />
+  <action id="Debug">
+    <keyboard-shortcut first-keystroke="shift f9" />
+    <keyboard-shortcut first-keystroke="meta r" />
+  </action>
   <action id="Editor Undo">
     <keyboard-shortcut first-keystroke="shift ctrl slash" />
   </action>
