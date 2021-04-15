@@ -1,11 +1,7 @@
 <application>
-  <component name="FileTypeManager" version="18">
+  <component name="FileTypeManager" version="17">
     <ignoreFiles list="*.iml;*.pyc;*.pyo;*.rbc;*.yarb;*~;.DS_Store;.git;.hg;.svn;CVS;__pycache__;_svn;vssver.scc;vssver2.scc;" />
     <extensionMap>
-      <mapping pattern="dom-success" type="AUTO_DETECTED" />
-      <mapping pattern="test1" type="AUTO_DETECTED" />
-      <mapping pattern="test2" type="AUTO_DETECTED" />
-      <mapping pattern="dom-fail" type="AUTO_DETECTED" />
       <mapping ext="gradle.kts" type="Kotlin" />
       <mapping ext="main.kts" type="Kotlin" />
       <mapping pattern="LICENCE" type="PLAIN_TEXT" />
@@ -15,8 +11,12 @@
       <mapping ext="gpg" type="PLAIN_TEXT" />
       <mapping pattern="expected" type="XML" />
       <mapping pattern="actual" type="XML" />
-      <removed_mapping ext="apk" approved="true" type="ARCHIVE" />
       <removed_mapping ext="psd" approved="true" type="Image" />
+      <removed_mapping ext="apk" approved="true" type="ARCHIVE" />
+      <mapping pattern="dom-fail" type="AUTO_DETECTED" />
+      <mapping pattern="dom-success" type="AUTO_DETECTED" />
+      <mapping pattern="test1" type="AUTO_DETECTED" />
+      <mapping pattern="test2" type="AUTO_DETECTED" />
     </extensionMap>
   </component>
 </application>
