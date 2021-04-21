@@ -6,6 +6,7 @@
       <mapping pattern="test1" type="AUTO_DETECTED" />
       <mapping pattern="test2" type="AUTO_DETECTED" />
       <mapping pattern="dom-fail" type="AUTO_DETECTED" />
+      <mapping ext="space.kts" type="Kotlin" />
       <mapping ext="gradle.kts" type="Kotlin" />
       <mapping ext="main.kts" type="Kotlin" />
       <mapping pattern="LICENCE" type="PLAIN_TEXT" />
