@@ -11,4 +11,7 @@
   <component name="EditorSettings">
     <option name="IS_FOLDING_OUTLINE_SHOWN" value="false" />
   </component>
+  <component name="JavaCodeFoldingSettings">
+    <option name="collapseOneLineMethods" value="false" />
+  </component>
 </application>
