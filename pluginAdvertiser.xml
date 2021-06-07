@@ -89,7 +89,7 @@
                   </entry>
                   <entry key="DjangoTestsConfigurationType">
                     <value>
-                      <FeaturePluginData displayName="Django tests" pluginName="Python" pluginId="Pythonid" bundled="true" />
+                      <FeaturePluginData displayName="Django tests" pluginName="Python" pluginId="Pythonid" />
                     </value>
                   </entry>
                   <entry key="FirefoxRemoteDebugType">
@@ -174,7 +174,7 @@
                   </entry>
                   <entry key="JetRunConfigurationType">
                     <value>
-                      <FeaturePluginData displayName="Kotlin" pluginName="Kotlin" pluginId="org.jetbrains.kotlin" bundled="true" />
+                      <FeaturePluginData displayName="Kotlin" pluginName="Kotlin" pluginId="org.jetbrains.kotlin" />
                     </value>
                   </entry>
                   <entry key="JettyConfiguration">
@@ -184,12 +184,12 @@
                   </entry>
                   <entry key="KotlinJavaScriptTestRunnerProtractor">
                     <value>
-                      <FeaturePluginData displayName="Protractor (Kotlin)" pluginName="org.jetbrains.kotlin" pluginId="org.jetbrains.kotlin" bundled="true" />
+                      <FeaturePluginData displayName="Protractor (Kotlin)" pluginName="org.jetbrains.kotlin" pluginId="org.jetbrains.kotlin" />
                     </value>
                   </entry>
                   <entry key="KotlinStandaloneScriptRunConfigurationType">
                     <value>
-                      <FeaturePluginData displayName="Kotlin script" pluginName="Kotlin" pluginId="org.jetbrains.kotlin" bundled="true" />
+                      <FeaturePluginData displayName="Kotlin script" pluginName="Kotlin" pluginId="org.jetbrains.kotlin" />
                     </value>
                   </entry>
                   <entry key="MavenRunConfiguration">
@@ -219,37 +219,37 @@
                   </entry>
                   <entry key="PyBehaveRunConfigurationType">
                     <value>
-                      <FeaturePluginData displayName="Behave" pluginName="Pythonid" pluginId="Pythonid" bundled="true" />
+                      <FeaturePluginData displayName="Behave" pluginName="Pythonid" pluginId="Pythonid" />
                     </value>
                   </entry>
                   <entry key="PyRemoteDebugConfigurationType">
                     <value>
-                      <FeaturePluginData displayName="Python Debug Server" pluginName="Python" pluginId="Pythonid" bundled="true" />
+                      <FeaturePluginData displayName="Python Debug Server" pluginName="Python" pluginId="Pythonid" />
                     </value>
                   </entry>
                   <entry key="Python.AppEngineServer">
                     <value>
-                      <FeaturePluginData displayName="App Engine server" pluginName="Pythonid" pluginId="Pythonid" bundled="true" />
+                      <FeaturePluginData displayName="App Engine server" pluginName="Pythonid" pluginId="Pythonid" />
                     </value>
                   </entry>
                   <entry key="Python.DjangoServer">
                     <value>
-                      <FeaturePluginData displayName="Django Server" pluginName="Python" pluginId="Pythonid" bundled="true" />
+                      <FeaturePluginData displayName="Django Server" pluginName="Python" pluginId="Pythonid" />
                     </value>
                   </entry>
                   <entry key="Python.FlaskServer">
                     <value>
-                      <FeaturePluginData displayName="Flask server" pluginName="Python" pluginId="Pythonid" bundled="true" />
+                      <FeaturePluginData displayName="Flask server" pluginName="Python" pluginId="Pythonid" />
                     </value>
                   </entry>
                   <entry key="Python.PyramidServer">
                     <value>
-                      <FeaturePluginData displayName="Pyramid server" pluginName="Python" pluginId="Pythonid" bundled="true" />
+                      <FeaturePluginData displayName="Pyramid server" pluginName="Python" pluginId="Pythonid" />
                     </value>
                   </entry>
                   <entry key="PythonConfigurationType">
                     <value>
-                      <FeaturePluginData displayName="Python" pluginName="Python" pluginId="Pythonid" bundled="true" />
+                      <FeaturePluginData displayName="Python" pluginName="Python" pluginId="Pythonid" />
                     </value>
                   </entry>
                   <entry key="QuarkusRunConfigurationType">
@@ -304,7 +304,7 @@
                   </entry>
                   <entry key="Tox">
                     <value>
-                      <FeaturePluginData displayName="tox" pluginName="Python" pluginId="Pythonid" bundled="true" />
+                      <FeaturePluginData displayName="tox" pluginName="Python" pluginId="Pythonid" />
                     </value>
                   </entry>
                   <entry key="UtPlSqlConfigurationType">
@@ -374,7 +374,7 @@
                   </entry>
                   <entry key="tests">
                     <value>
-                      <FeaturePluginData displayName="Python tests" pluginName="Python" pluginId="Pythonid" bundled="true" />
+                      <FeaturePluginData displayName="Python tests" pluginName="Python" pluginId="Pythonid" />
                     </value>
                   </entry>
                 </map>
@@ -390,6 +390,11 @@
                   <entry key="AspectJ">
                     <value>
                       <FeaturePluginData displayName="AspectJ" pluginName="AspectJ" pluginId="com.intellij.aspectj" bundled="true" />
+                    </value>
+                  </entry>
+                  <entry key="Python">
+                    <value>
+                      <FeaturePluginData displayName="Python" pluginName="Pythonid" pluginId="Pythonid" />
                     </value>
                   </entry>
                   <entry key="Spring">
@@ -429,12 +434,12 @@
                   </entry>
                   <entry key="buildout-python">
                     <value>
-                      <FeaturePluginData displayName="Buildout Support" pluginName="Python" pluginId="Pythonid" bundled="true" />
+                      <FeaturePluginData displayName="Buildout Support" pluginName="Python" pluginId="Pythonid" />
                     </value>
                   </entry>
                   <entry key="django">
                     <value>
-                      <FeaturePluginData displayName="Django" pluginName="Python" pluginId="Pythonid" bundled="true" />
+                      <FeaturePluginData displayName="Django" pluginName="Python" pluginId="Pythonid" />
                     </value>
                   </entry>
                   <entry key="ejb">
@@ -444,7 +449,7 @@
                   </entry>
                   <entry key="google-appengine-python">
                     <value>
-                      <FeaturePluginData displayName="Google App Engine (Python)" pluginName="Pythonid" pluginId="Pythonid" bundled="true" />
+                      <FeaturePluginData displayName="Google App Engine (Python)" pluginName="Pythonid" pluginId="Pythonid" />
                     </value>
                   </entry>
                   <entry key="hibernate">
@@ -469,7 +474,7 @@
                   </entry>
                   <entry key="kotlin-language">
                     <value>
-                      <FeaturePluginData displayName="Kotlin" pluginName="Kotlin" pluginId="org.jetbrains.kotlin" bundled="true" />
+                      <FeaturePluginData displayName="Kotlin" pluginName="Kotlin" pluginId="org.jetbrains.kotlin" />
                     </value>
                   </entry>
                   <entry key="native-android-gradle">
