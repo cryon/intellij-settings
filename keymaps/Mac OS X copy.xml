@@ -5,6 +5,10 @@
   </action>
   <action id="ActivateMessagesToolWindow" />
   <action id="ActivateRunToolWindow" />
+  <action id="ActivateTerminalToolWindow">
+    <keyboard-shortcut first-keystroke="alt f12" />
+    <keyboard-shortcut first-keystroke="meta #10000e4" />
+  </action>
   <action id="Back">
     <keyboard-shortcut first-keystroke="meta left" />
   </action>
