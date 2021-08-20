@@ -16,5 +16,6 @@
     <mask>*.java</mask>
     <mask>*.xml</mask>
     <mask>*.xsd</mask>
+    <mask>*.yaml</mask>
   </component>
 </application>
