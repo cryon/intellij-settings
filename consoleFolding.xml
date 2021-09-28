@@ -6,8 +6,8 @@
         <option value="12:51:13.100 [pool-5-thread-1] ERROR c.s.s.RefreshingIdTokenCredentials - Failed to to update request metadata" />
         <option value="12:51:33.099 [pool-5-thread-1] ERROR c.s.s.RefreshingIdTokenCredentials - Failed to to update request metadata" />
         <option value="Caused by: java.lang.Exception: Google credentials : credentials that can provide id tokens expected" />
+        <option value="Failed to refresh id token" />
         <option value="java.io.IOException: Unable to fetch ID token provider. This is expected when running the SDK locally with end-user credentials. See https://spotify.stackenterprise.co/questions/7863." />
-        <option value="RefreshingIdTokenCredentials - Failed to to update request metadata" />
       </list>
     </option>
   </component>
