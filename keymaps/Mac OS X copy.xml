@@ -54,8 +54,15 @@
   <action id="Editor Undo">
     <keyboard-shortcut first-keystroke="shift ctrl slash" />
   </action>
+  <action id="EditorAddRectangularSelectionOnMouseDrag">
+    <mouse-shortcut keystroke="shift meta alt button1" />
+    <mouse-shortcut keystroke="alt button1" />
+  </action>
   <action id="EditorChooseLookupItemDot" />
   <action id="EditorChooseLookupItemReplace" />
+  <action id="EditorCreateRectangularSelectionOnMouseDrag">
+    <mouse-shortcut keystroke="button2" />
+  </action>
   <action id="EditorCutLineEnd">
     <keyboard-shortcut first-keystroke="ctrl k" />
   </action>
@@ -216,6 +223,9 @@
   <action id="OverrideMethods" />
   <action id="PreviousEditorTab" />
   <action id="PreviousTab" />
+  <action id="QuickEvaluateExpression">
+    <keyboard-shortcut first-keystroke="meta alt f8" />
+  </action>
   <action id="Refactorings.QuickListPopupAction">
     <keyboard-shortcut first-keystroke="ctrl t" />
   </action>
